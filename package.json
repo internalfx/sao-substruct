@@ -1,0 +1,29 @@
+{
+  "name": "sao-substruct",
+  "version": "0.0.0",
+  "description": "A Node.js framework",
+  "repository": {
+    "url": "internalfx/sao-substruct",
+    "type": "git"
+  },
+  "author": "internalfx <bryan@internalfx.com> (https://www.internalfx.com)",
+  "license": "MIT",
+  "files": [
+    "saofile.js",
+    "template"
+  ],
+  "scripts": {
+    "test": "ava"
+  },
+  "dependencies": {
+    "superb": "^1.3.0"
+  },
+  "devDependencies": {
+    "ava": "^0.25.0",
+    "sao": "^1.0.0",
+    "eslint": "^4.0.0",
+    "eslint-plugin-html": "^4.0.5",
+    "eslint-plugin-vue": "^4.7.1",
+    "standard": "^12.0.1"
+  }
+}
