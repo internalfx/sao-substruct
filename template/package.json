@@ -2,6 +2,6 @@
   "name": "<%= name %>",
   "version": "0.1.0",
   "dependencies": {
-    "substruct": "^2.1.0"
+    "@internalfx/substruct": "^2.1.0"
   }
 }
